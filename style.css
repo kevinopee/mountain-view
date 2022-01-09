@@ -72,3 +72,18 @@
 audio {
   display: none;
 }
+
+.credit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 0.65rem;
+  padding: 5px;
+  background: #eee;
+  text-align: center;
+  border-bottom-left-radius: 8px;
+}
+
+.credit a {
+  color: rgb(41, 115, 142);
+}
