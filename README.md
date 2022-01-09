@@ -1,6 +1,6 @@
 ## Mountain View
 
-### Tools
+> Tools
 
-> Vue.js (CDN)
-> Anime.js
+- Vue.js (CDN)
+- Anime.js
